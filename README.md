@@ -22,6 +22,6 @@ evaluation and deterministic checks that decide whether output ships.
 - **FieldTrust** — evaluation harness for model degradation under distribution
   shift: a crop-disease model's 98% lab accuracy fell to 5% in the field.
 - **PCN Simulator** — decision-support software for potato cyst nematode risk in
-  UK fields. FastAPI, PostgreSQL, React, OCR of lab reports, and a
-  mechanistic model from peer-reviewed nematology, tested on independent field
-  data.
+  UK fields, built on peer-reviewed nematology.
+- **Net Sales Console** — operations console over a sales-invoice extract, in
+  partnership with Power Brain (Nepal).
