@@ -2,8 +2,8 @@
 
 ML/AI engineer. MSc Data Science (Distinction), University of Greenwich.
 
-I build production LLM applications, from 7B open-weight models to frontier
-hosted ones, sizing the model to the problem and running small ones locally
+I build LLM applications in production, from 7B open-weight models to frontier
+hosted ones, sizing the model to the problem, running small ones locally
 where data can't leave the building. The harder half is trust: I build the
 evaluation and deterministic checks that decide whether output ships.
 
@@ -13,15 +13,16 @@ evaluation and deterministic checks that decide whether output ships.
   — cohort retention on UCI Online Retail II: repeat buyers are 77% of
   customers, 98% of revenue.
 - **[customer-churn-prediction](https://github.com/Aashish-Bhattarai/customer-churn-prediction)**
-  — Telco churn with a cost-based decision threshold.
+  — Telco churn with a cost-based threshold.
 - **[Crop-Disease-Detection-ResNet-CNN](https://github.com/Aashish-Bhattarai/Crop-Disease-Detection-ResNet-CNN)**
-  — ResNet18 transfer learning on PlantVillage, served via FastAPI.
+  — ResNet18 transfer learning on PlantVillage, via FastAPI.
 
 **Private (on request)**
 
-- **FieldTrust** — evaluation harness for model degradation under distribution
-  shift: a crop-disease model's 98% lab accuracy fell to 5% in the field.
-- **PCN Simulator** — decision-support software for potato cyst nematode risk in
-  UK fields, built on peer-reviewed nematology.
-- **Net Sales Console** — operations console over a sales-invoice extract, in
-  partnership with Power Brain (Nepal).
+- **FieldTrust** — evaluation harness for model degradation under shift: a
+  crop-disease model's 98% lab accuracy fell to 5% in the field.
+- **PCN Simulator** — decision-support software for potato cyst nematode risk,
+  from peer-reviewed nematology.
+- **Verified LLM Analytics** — natural-language answers over live sales data,
+  every figure verified against computed facts before it renders. With Power
+  Brain, Nepal.
