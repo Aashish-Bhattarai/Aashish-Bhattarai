@@ -23,6 +23,5 @@ evaluation and deterministic checks that decide whether output ships.
   crop-disease model's 98% lab accuracy fell to 5% in the field.
 - **PCN Simulator** — decision-support software for potato cyst nematode risk,
   from peer-reviewed nematology.
-- **Verified LLM Analytics** — natural-language answers over live sales data,
-  every figure verified against computed facts before it renders. With Power
-  Brain, Nepal.
+- **AI ERP Intelligence** — AI layer over live ERP data, every figure the
+  model states verified against computed facts. With Power Brain, Nepal.
