@@ -2,27 +2,26 @@
 
 ML/AI engineer. MSc Data Science (Distinction), University of Greenwich.
 
-I work on making ML and LLM output reliable in production: evaluation,
-calibration, deterministic verification.
+I build production LLM applications, from 7B open-weight models to frontier
+hosted ones, sizing the model to the problem and running small ones locally
+where data can't leave the building. The harder half is trust: I build the
+evaluation and deterministic checks that decide whether output ships.
 
 **Public work**
 
 - **[ecommerce-sales-analysis](https://github.com/Aashish-Bhattarai/ecommerce-sales-analysis)**
-  — cohort retention on UCI Online Retail II (1.07M transactions). Repeat buyers
-  are 77% of customers but 98% of revenue. Documents a double-counting trap in
-  the data.
+  — cohort retention on UCI Online Retail II: repeat buyers are 77% of
+  customers, 98% of revenue.
 - **[customer-churn-prediction](https://github.com/Aashish-Bhattarai/customer-churn-prediction)**
-  — Telco churn: calibration before thresholding, with a threshold derived from
-  retention costs.
+  — Telco churn with a cost-based decision threshold.
 - **[Crop-Disease-Detection-ResNet-CNN](https://github.com/Aashish-Bhattarai/Crop-Disease-Detection-ResNet-CNN)**
   — ResNet18 transfer learning on PlantVillage, served via FastAPI.
 
-**Private — available on request**
+**Private (on request)**
 
-- **FieldTrust** — evaluation harness for classifier degradation under
-  distribution shift. Showed a crop-disease model's 98% lab accuracy falling to
-  5% on field photography, with no confidence threshold able to fix it.
+- **FieldTrust** — evaluation harness for model degradation under distribution
+  shift: a crop-disease model's 98% lab accuracy fell to 5% in the field.
 - **PCN Simulator** — decision-support software for potato cyst nematode risk in
-  UK fields: FastAPI, PostgreSQL, React, OCR of lab sampling reports, and a
-  mechanistic population model from peer-reviewed nematology. Tested against
-  independent UK field data for directional risk ranking.
+  UK fields. FastAPI, PostgreSQL, React, OCR of lab reports, and a
+  mechanistic model from peer-reviewed nematology, tested on independent field
+  data.
