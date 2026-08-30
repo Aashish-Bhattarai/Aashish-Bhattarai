@@ -9,13 +9,13 @@ evaluation and deterministic checks that decide whether output ships.
 
 **Public work**
 
+- **[Crop-Disease-Detection-ResNet-CNN](https://github.com/Aashish-Bhattarai/Crop-Disease-Detection-ResNet-CNN)**
+  — ResNet18 transfer learning on PlantVillage, via FastAPI.
 - **[ecommerce-sales-analysis](https://github.com/Aashish-Bhattarai/ecommerce-sales-analysis)**
   — cohort retention on UCI Online Retail II: repeat buyers are 77% of
   customers, 98% of revenue.
 - **[customer-churn-prediction](https://github.com/Aashish-Bhattarai/customer-churn-prediction)**
   — Telco churn with a cost-based threshold.
-- **[Crop-Disease-Detection-ResNet-CNN](https://github.com/Aashish-Bhattarai/Crop-Disease-Detection-ResNet-CNN)**
-  — ResNet18 transfer learning on PlantVillage, via FastAPI.
 
 **Private (on request)**
 
