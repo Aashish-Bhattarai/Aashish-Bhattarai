@@ -22,7 +22,7 @@ evaluation and deterministic checks that decide whether output ships.
 
 - **FieldTrust** — evaluation harness for model degradation under shift: a
   crop-disease model's 98% lab accuracy fell to 5% in the field.
-- **PCN Simulator** — potato cyst nematode risk modelling from published
-  nematology.
+- **PCN Simulator** — potato cyst nematode risk modelling, from that
+  assistantship.
 - **AI ERP Intelligence** — AI layer over ERP data, every stated figure
   verified against computed facts. With Power Brain (Nepal).
