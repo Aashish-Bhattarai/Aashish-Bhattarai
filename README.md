@@ -2,7 +2,7 @@
 
 MSc Data Science (Distinction), University of Greenwich · Funded research assistantship (geospatial ML) · Based in the UK, open to work
 
-I build production AI systems with verified outputs and measurably honest evaluation: every figure my systems state is checked before it's shown, model failure modes are measured and published, and what I build gets deployed and stays running.
+I build production AI systems with verified outputs and measurably honest evaluation.
 
 ## What I've shipped
 
