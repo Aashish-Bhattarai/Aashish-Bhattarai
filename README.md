@@ -15,13 +15,13 @@ I build production AI systems with verified outputs and measurably honest evalua
 
 - **Nepal Flood & Landslide Early Warning** — national early-warning system covering 774 municipalities, a 54,944-node river network and a calibrated landslide model, replayed against past disasters.
 - **UK job platform** — multi-role production web app: employer approval workflow, content-verified CV upload, RBAC, audit logging, Playwright e2e + vitest, CI with gitleaks. Next.js · Drizzle · Postgres.
-- **PCN field simulator** — university research: field photo → infestation classification → machinery/rainfall/slope-aware spread simulation, heatmaps, sampling plans and RAG report generation. Built during a funded research assistantship.
-- **Model-evaluation harness** — calibration and selective prediction for agricultural AI under distribution shift.
+- **PCN field simulator** — university research: field photo → infestation classification → machinery/rainfall/slope-aware spread simulation, heatmaps, sampling plans and LLM-written agronomic reports generated from the simulation's own outputs. Built during a funded research assistantship.
+- **FieldTrust** — evaluation harness for vision models under distribution shift: lab-to-field degradation (98.1% lab → 4.9% on pathologist-labelled field photos), calibration and selective prediction.
 
 ## Stack
 
-Python (FastAPI, pandas, scikit-learn, PyTorch) · TypeScript (Next.js, React) · SQL · Docker · CI/CD · pytest/vitest/Playwright · AWS foundations
+Python (FastAPI, PyTorch, scikit-learn, pandas) · LLM systems (agents, NL-to-SQL, output verification) · OCR/vision (OpenCV, PaddleOCR) · TypeScript (Next.js, React) · PostgreSQL, Redis · Docker, CI/CD, AWS · pytest/vitest/Playwright
 
 ## Now
 
-Open to AI/ML engineering and data science roles in the UK · Currently: applied AI engineer (ERP intelligence) · MSc project work on model reliability under distribution shift
+Open to AI/ML engineering and data science roles in the UK · Currently: Junior Application Developer at AICOE.IO (document intelligence, natural-language database querying) and applied AI engineer on ERP intelligence · MSc project work on model reliability under distribution shift
