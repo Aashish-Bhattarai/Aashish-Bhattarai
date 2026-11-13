@@ -24,4 +24,4 @@ Python (FastAPI, PyTorch, scikit-learn, pandas) · LLM systems (agents, NL-to-SQ
 
 ## Now
 
-Open to AI/ML engineering and data science roles in the UK · Currently: Junior Application Developer at AICOE.IO (document intelligence, natural-language database querying) and applied AI engineer on ERP intelligence · MSc project work on model reliability under distribution shift
+Open to AI/ML engineering and data science roles in the UK · Currently: Junior Application Developer at AICOE.IO · Technical partner on an ERP intelligence product · MSc project work on model reliability under distribution shift
