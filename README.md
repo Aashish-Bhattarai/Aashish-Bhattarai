@@ -20,7 +20,7 @@ I build production AI systems with verified outputs and measurably honest evalua
 
 ## Stack
 
-Python (FastAPI, PyTorch, scikit-learn, pandas) · LLM systems (agents, NL-to-SQL, output verification) · OCR/vision (OpenCV, PaddleOCR) · TypeScript (Next.js, React) · PostgreSQL, Redis · Docker, CI/CD, AWS · pytest/vitest/Playwright
+Python (FastAPI, PyTorch, scikit-learn, pandas) · LLM systems (RAG, agents, NL-to-SQL, output verification) · OCR/vision (OpenCV, PaddleOCR) · TypeScript (Next.js, React) · PostgreSQL, Redis · Docker, CI/CD, AWS · pytest/vitest/Playwright
 
 ## Now
 
